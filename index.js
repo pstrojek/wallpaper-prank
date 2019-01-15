@@ -9,7 +9,7 @@ const tempfile = require('tempfile');
 
 const params = parseArgs(process.argv.slice(2));
 const INTERVAL_TIME = 60000
-const wallpaperList = ['wallpaper1.jpg', 'wallpaper2.jpg']
+const wallpaperList = ['1.jpg', '2.jpg']
 
 let state = {
   imageUrl: '',
@@ -33,7 +33,7 @@ const setWallpaper = async (name, imageUrl) => {
         await wallpaper.set(file);
       })
   } else if (!currentWallpaper.endsWith(name)) {
-      await wallpaper.set(__dirname + '/' + name)
+      await wallpaper.set(__dirname + '/wallpapers/' + name)
   }
 }
 

@@ -1,6 +1,6 @@
 {
   "name": "wallpaper-prank",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Change your wallpaper with one command.",
   "author": "pstrojek",
   "main": "index.js",
@@ -11,6 +11,10 @@
   ],
   "bin": {
     "wallpaper-prank": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pstrojek/wallpaper-prank.git"
   },
   "engines": {
     "node": ">=8"
