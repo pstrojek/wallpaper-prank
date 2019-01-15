@@ -1,0 +1,27 @@
+{
+  "name": "wallpaper-prank",
+  "version": "1.0.8",
+  "description": "Change your wallpaper with one command.",
+  "author": "pstrojek",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "wallpaper",
+    "prank"
+  ],
+  "bin": {
+    "wallpaper-prank": "./index.js"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "got": "9.5.1",
+    "is-url-superb": "2.0.0",
+    "minimist": "1.2.0",
+    "path": "0.12.7",
+    "tempfile": "2.0.0",
+    "wallpaper": "4.2.0"
+  }
+}
