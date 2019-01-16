@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/wallpaper-prank.svg)](https://badge.fury.io/js/wallpaper-prank)
+
 # wallpaper-prank
 Change your wallpaper with one command.  
 Working on Windows, mac and linux. 
