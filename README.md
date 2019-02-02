@@ -20,6 +20,11 @@ npx wallpaper-prank --watch
 ```
 ## Install
 ```
-$ npm install -g wallpaper-prank
-$ wallpaper-prank
+npm install -g wallpaper-prank
+wallpaper-prank
+```
+
+## Test
+```
+npm test
 ```
