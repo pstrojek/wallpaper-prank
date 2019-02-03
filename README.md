@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/pstrojek/wallpaper-prank.svg?style=svg)](https://circleci.com/gh/pstrojek/wallpaper-prank)
 [![npm version](https://badge.fury.io/js/wallpaper-prank.svg)](https://badge.fury.io/js/wallpaper-prank)
 
 # wallpaper-prank
