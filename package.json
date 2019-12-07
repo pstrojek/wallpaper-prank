@@ -1,6 +1,6 @@
 {
   "name": "wallpaper-prank",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Change your wallpaper with one command",
   "author": "pstrojek",
   "main": "index.js",
