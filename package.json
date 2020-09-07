@@ -27,7 +27,7 @@
     "fs": "0.0.1-security",
     "got": "9.5.1",
     "is-url-superb": "2.0.0",
-    "minimist": "1.2.0",
+    "minimist": "1.2.3",
     "path": "0.12.7",
     "tempfile": "2.0.0",
     "wallpaper": "4.2.0"
